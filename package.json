@@ -1,0 +1,16 @@
+{
+  "name": "tci",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/iamabs2001/tci.git"
+  },
+  "description": ""
+}
